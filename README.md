@@ -4,7 +4,6 @@
 
 - 🔭 I’m currently working on Cache
 - 🌱 I’m currently revising for my GCSE's
-- 👯 I’m looking to collaborate on discord bots
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am a pilot!
 
