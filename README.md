@@ -3,7 +3,6 @@
 ## I'm a student developer
 
 - 🔭 I’m currently working on Cache
-- 🌱 I’m currently revising for my GCSE's
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am a pilot!
 
@@ -16,8 +15,4 @@
 - 🖥️ Javascript
 - 🖥️ Lua
 ---
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-  <img align="left" alt="wotanut's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=wotanut&show_icons=true&hide_border=true&theme=radical" />
-</details>
+[![wotanut's GitHub stats](https://github-readme-stats.vercel.app/api?username=wotanut&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
