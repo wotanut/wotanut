@@ -11,7 +11,7 @@
 
 <!-- ![Discord](https://discord.c99.nl/widget/theme-3/725945760629129277.png) -->
 <a href="https://discord.com/users/<user_id>">
-<img src="https://discord.c99.nl/widget/theme-3/725945760629129277.png" alt="Discord"/>
+<img src="https://discord.c99.nl/widget" alt="Discord"/>
 </a>
 
 ### Languages I Know:
