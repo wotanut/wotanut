@@ -9,6 +9,8 @@
 ### 📫 How to Reach Me:
 [Twitter](https://www.twitter.com/wotanut1) || [Discord](https://www.discord.com/invite/G993wHvy5d) || [ROBLOX](https://www.roblox.com/groups/9168518/Wotanut-Studios#!/about)
 
+https://discord.com/users/<user_ID>
+
 ### Languages I Know:
 - 🐍 Python
 - 💻 HTML/CSS
