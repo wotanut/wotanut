@@ -9,7 +9,10 @@
 ### 📫 How to Reach Me:
 [Twitter](https://www.twitter.com/wotanut1) || [Discord](https://www.discord.com/invite/G993wHvy5d) || [ROBLOX](https://www.roblox.com/groups/9168518/Wotanut-Studios#!/about)
 
-https://discord.com/users/<user_ID>
+<!-- ![Discord](https://discord.c99.nl/widget/theme-3/725945760629129277.png) -->
+<a href="https://discord.com/users/<user_id>">
+<img src="https://discord.c99.nl/widget/theme-3/725945760629129277.png" alt="Discord"/>
+</a>
 
 ### Languages I Know:
 - 🐍 Python
