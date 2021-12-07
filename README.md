@@ -10,8 +10,8 @@
 [Twitter](https://www.twitter.com/wotanut1) || [Discord](https://www.discord.com/invite/G993wHvy5d) || [ROBLOX](https://www.roblox.com/groups/9168518/Wotanut-Studios#!/about)
 
 <!-- ![Discord](https://discord.c99.nl/widget/theme-3/725945760629129277.png) -->
-<a href="https://discord.com/users/<user_id>">
-<img src="https://discord.c99.nl/widget" alt="Discord"/>
+<a href="https://discord.com/users/<705798778472366131>">
+<img src="https://discord.c99.nl/widget/theme-2/705798778472366131.png" alt="Discord"/>
 </a>
 
 ### Languages I Know:
