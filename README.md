@@ -7,7 +7,7 @@
 - ⚡ Fun fact: I am a pilot!
 
 ### 📫 How to Reach Me:
-[Twitter](https://www.twitter.com/wotanut1) || [Discord](https://www.discord.com/invite/G993wHvy5d) || [ROBLOX](https://www.roblox.com/groups/9168518/Wotanut-Studios#!/about)
+[Twitter](https://www.twitter.com/wotanut1) || [Discord](https://www.discord.com/invite/G993wHvy5d)
 
 <!-- ![Discord](https://discord.c99.nl/widget/theme-3/725945760629129277.png) -->
 <a href="https://discord.com/users/<705798778472366131>">
