@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sam</h1>
-<h3 align="center">I like making things, mostly I break things</h3>
+<h3 align="center">Putting the pro in procrastination</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wotanut&label=Profile%20views&color=0e75b6&style=flat" alt="wotanut" /> </p>
 
