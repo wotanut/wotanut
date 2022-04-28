@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **C#**
 
-- 👯 I’m looking to collaborate on **python stuff**
+- 👯 I’m looking to collaborate on **python or C# stuff**
 
 - 👨‍💻 All of my projects are available at [https://github.com/wotanut?tab=repositories](https://github.com/wotanut?tab=repositories)
 
