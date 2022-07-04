@@ -4,6 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wotanut&label=Profile%20views&color=0e75b6&style=flat" alt="wotanut" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wotanut" alt="wotanut" /></a> </p>
+<p align="left"> <a href="[https://github-commit-streaks.glitch.me/wotanut](https://github.com/wotanut/github-commit-streaks)"><img src="https://github-commit-streaks.glitch.me/wotanut" alt="wotanut" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/wotanut1" target="blank"><img src="https://img.shields.io/twitter/follow/wotanut1?logo=twitter&style=for-the-badge" alt="wotanut1" /></a> </p>
 
