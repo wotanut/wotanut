@@ -8,15 +8,15 @@
 
 - 👯 I’m looking to collaborate on **Any project in swift, javascript,python, and C#**
 
-- 👨‍💻 All of my projects are available at [https://github.com/wotanut](https://github.com/wotanut)
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/wotanut?tab=repositories)
 
-- 📝 I regularly write articles on [My website](My website)
+- 📝 I regularly write articles on [My website](overhaul in progress, please wait)
 
 - 💬 Ask me about **anything**
 
 - 📫 How to reach me **sambpilot@gmail.com**
 
-- 📄 Know about my experiences [My website](My website)
+- 📄 Know about my experiences from [My website](overhaul in progress, please wait)
 
 
 <!-- 
