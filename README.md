@@ -40,7 +40,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wotanut" alt="wotanut" /></a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=wotanut&show_icons=true&locale=en&layout=compact&hide=html,css&count_private=true&langs_count=10&theme=radical" alt="wotanut" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=wotanut&show_icons=true&locale=en&layout=compact&hide=html,css,batchfile,shell&count_private=true&langs_count=10&theme=radical" alt="wotanut" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wotanut&show_icons=true&locale=en&theme=radical" alt="wotanut" /></p>
 
