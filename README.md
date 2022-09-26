@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **anything**
 
-- 📫 How to reach me **sambpilot@gmail.com**
+- 📫 How to reach me **contact@sblue.tech**
 
 - 📄 Know about my experiences from [My website](overhaul in progress, please wait)
 
