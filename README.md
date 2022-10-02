@@ -54,3 +54,4 @@
 <h3 align="left">Support:</h3>
 <a href="https://ko-fi.com/wotanut"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="placeholder" /></a></p><br><br>
 
+<!-- I have a 8 day streak and  kinda want to keep it but also I need to work on my epq and I don't have enough time to write proper code soo uhhhh 🤫 -->
