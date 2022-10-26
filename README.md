@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sam</h1>
-<h3 align="center">Student by day, software engineer by night</h3>
+<h3 align="center">I solve problems no one has</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=wotanut&label=Profile%20views&color=0e75b6&style=flat" alt="wotanut" /> </p>
 
