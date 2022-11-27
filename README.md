@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **contact@sblue.tech**
 
-- 📄 Know about my experiences from [My website](overhaul in progress, please wait)
+- 📄 Know about my experiences from [My website](https://sblue.tech)
 
 
 <!-- 
