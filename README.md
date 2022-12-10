@@ -3,6 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=wotanut&label=Profile%20views&color=0e75b6&style=flat" alt="wotanut" /> </p>
 
+<img src="https://github.com/wotanut/wotanut/blob/main/banner.gif?raw=true">
 
 - 🌱 I’m currently learning **Swift**
 
