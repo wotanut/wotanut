@@ -47,7 +47,7 @@
 <!-- Trophies -->
 
 <h3 align="center">Trophy cabinet</h3>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wotanut" alt="wotanut" /></a> </p>
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=wotanut" alt="wotanut" /> </p>
 
 <!--- Stats -->
 
