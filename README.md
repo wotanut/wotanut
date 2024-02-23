@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=wotanut&label=Profile%20views&color=0e75b6&style=flat" alt="wotanut" /> </p>
 
-<img src="https://github.com/wotanut/wotanut/blob/main/banner.gif">
+<img src="https://github.com/wotanut/wotanut/blob/a47dda1cd805f9623a46b0e482c61d6b7774d74d/Banner_Gif(3).gif">
 
 <!-- About me -->
 
@@ -11,9 +11,9 @@
 
 - 📝 I regularly write articles on [My website](overhaul in progress, please wait)
 
-- 📫 How to reach me **contact@sblue.tech**
+- 📫 How to reach me **sam@sambot.dev**
 
-- 📄 Know about my experiences from [My website](https://sblue.tech)
+- 📄 Know about my experiences from [My website](https://sambot.dev)
 
 <!-- 
 ### Blogs posts
