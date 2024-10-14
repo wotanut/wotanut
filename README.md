@@ -52,7 +52,7 @@
 <!--- Stats -->
 
 <h3 align="center">Stats</h3>
-<p align="center"><img align="center" src="https://github-readme-stats-qn39h61h9-wotanut.vercel.app/api/top-langs?username=wotanut&show_icons=true&locale=en&layout=compact&hide=html,css,batchfile,shell,scss&count_private=true&langs_count=10&theme=radical" alt="wotanut" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats-qn39h61h9-wotanut.vercel.app/api/top-langs?username=wotanut&show_icons=true&locale=en&layout=compact&hide=batchfile,shell,scss,PLpgSQL,CMake,c%2B%2B,&count_private=true&langs_count=10&theme=radical" alt="wotanut" /></p>
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wotanut&show_icons=true&locale=en&theme=radical" alt="wotanut" /></p>
 
