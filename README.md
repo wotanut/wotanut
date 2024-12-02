@@ -23,15 +23,10 @@
 <!-- Connect -->
 
 <h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="https://twitter.com/wotanut1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="wotanut1" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/15219495" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="18309120" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/ucivkp1f5jsye0ikalypw5sg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucivkp1f5jsye0ikalypw5sg" height="30" width="40" /></a>
-<a href="https://discord.gg/2w5KSXjhGe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="2w5KSXjhGe" height="30" width="40" /></a>
-<!--
-<a href="/https://placeholder.com/rss.xml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://placeholder.com/rss.xml" height="30" width="40" /></a>
--->
-</p>
+<div align="center">
+  
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/7CUmthNUXb) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sam-blewitt) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@15219495)
+</div>
 
 <!-- Skills -->
 
@@ -46,14 +41,16 @@
   
 <!-- Trophies -->
 
-<h3 align="center">Trophy cabinet</h3>
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=wotanut" alt="wotanut" /> </p>
+<h3 align="center"> 📊 GitHub Stats</h3>
+<div align="center">
+  
+  ![](https://github-readme-stats.vercel.app/api?username=wotanut&theme=blue-green&hide_border=false&include_all_commits=false&count_private=true)
+  ![](https://github-readme-stats-qn39h61h9-wotanut.vercel.app/api/top-langs?username=wotanut&show_icons=true&locale=en&layout=compact&hide=batchfile,shell,scss,PLpgSQL,CMake,c%2B%2B,&count_private=true&langs_count=10&theme=blue-green&hide_border=false)
+  ![](https://github-contributor-stats.vercel.app/api?username=wotanut&limit=5&theme=blue-green&combine_all_yearly_contributions=true) <br/>
+  ![](https://github-readme-streak-stats.herokuapp.com/?user=wotanut&theme=radical)
+</div>
 
-<!--- Stats -->
-
-<h3 align="center">Stats</h3>
-<p align="center"><img align="center" src="https://github-readme-stats-qn39h61h9-wotanut.vercel.app/api/top-langs?username=wotanut&show_icons=true&locale=en&layout=compact&hide=batchfile,shell,scss,PLpgSQL,CMake,c%2B%2B,&count_private=true&langs_count=10&theme=radical" alt="wotanut" /></p>
-
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wotanut&show_icons=true&locale=en&theme=radical" alt="wotanut" /></p>
-
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wotanut&theme=radical" alt="wotanut" /></p>
+<h3 align="center">🏆 Trophy Cabinet</h3>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=wotanut&theme=blue-green&no-frame=false&no-bg=false&margin-w=4" alt="wotanut" />
+</div>
